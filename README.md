@@ -1,7 +1,7 @@
 # Isaiah Collins Abetong-@reichsadmiral
 
 ### Hi there 👋 
-I'm Isaiah Collins; I am currently an IT student 💻 from the Philippines. Here, you can see what I'm creating and breaking simultaneously. 
+I'm Isaiah Collins; I am currently an IT student 💻 from the Philippines. Here, you can see what I'm  playing currently.  
 
 
 Here are some ideas to get you started:
