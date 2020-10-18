@@ -7,7 +7,7 @@ I'm Isaiah Collins; I am currently an IT student 💻 from the Philippines. Here
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something fun 😅
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... React
 - 📫 How to reach me: ... [@reichsadmiral](https://twitter.com/reichsadmiral)
 - ⚡ Fun fact: ... I ♥ ☕
 
