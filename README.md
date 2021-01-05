@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [@reichsadmiral](https://twitter.com/reichsadmiral)
 - ⚡ Fun fact: ... I ♥ ☕
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dax0102)
