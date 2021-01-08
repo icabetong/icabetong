@@ -1,4 +1,4 @@
-# Isaiah Collins Abetong-@asayah-san
+# Isaiah Collins Abetong-@icabetong
 
 ### Hi there 👋 
 I'm Isaiah Collins; I am currently an IT student 💻 from the Philippines. Here, you can see what I'm  playing with currently.  
