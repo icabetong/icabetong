@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something fun 😅
 - 🌱 I’m currently learning ... React
-- 📫 How to reach me: ... [@reichsadmiral](https://twitter.com/reichsadmiral)
+- 📫 How to reach me: ... [@icabetong](https://twitter.com/icabetong)
 - ⚡ Fun fact: ... I ♥ ☕
 
 ![README Stats](https://github-readme-stats.vercel.app/api?username=icabetong)
