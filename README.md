@@ -7,7 +7,7 @@ I'm Isaiah Collins; I am currently an IT student 💻 from the Philippines. Here
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something fun 😅
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me: ... [@icabetong](https://twitter.com/icabetong)
 - ⚡ Fun fact: ... I ♥ ☕
 
