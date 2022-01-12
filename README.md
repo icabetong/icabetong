@@ -23,6 +23,10 @@ I'm Isaiah Collins; currently an student in **Central Luzon State University**; 
   <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'/>
   <img src='https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white'/>
   <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'/>
+  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
+  <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
+  <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white'/>
   <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white'/>
   <img src='https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white'/>
   <img src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9'/>
@@ -42,6 +46,7 @@ I'm Isaiah Collins; currently an student in **Central Luzon State University**; 
   <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
 </p>
   
 ### Stats
@@ -50,6 +55,7 @@ I'm Isaiah Collins; currently an student in **Central Luzon State University**; 
 </p>
   
 ### You can reach me at:
+![mailto:isaiahcollins_02@live.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![https://twitter.com/icabetong](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![https://www.linkedin.com/in/isaiah-collins-284a27185/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://www.instagram.com/izayakorinzu/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
