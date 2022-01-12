@@ -3,13 +3,14 @@ I'm Isaiah Collins; currently an student in **Central Luzon State University**; 
 
 ### Stats
 <p style='text-align: center'>
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=icabetong&theme=dark'/>
+<img width='495' height='195' src='https://github-readme-stats.vercel.app/api?username=icabetong&theme=dark'/>
+<img width='490' height='165' src='https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&layout=compact&theme=dark'/>
 </p>
 
 ### Skills
 
 <p style='text-align: center'>
-  <img width='490' height='165' src='https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&layout=compact&theme=dark'/>
+
 </p>
 <p>
   <img src='https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white'/>
