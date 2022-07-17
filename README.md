@@ -1,5 +1,5 @@
 ## 👋 Hi there  
-I'm Isaiah Collins; currently an student in **Central Luzon State University**; taking a course in **Information Technology** with a **Systems Development** specialization. I am currently based in the Philippines and I specialize in developing mobile applications as well as web applications.
+I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon State University**; taking a course in **Information Technology** with a **Systems Development** specialization. I am currently based in the Philippines and I specialize in developing mobile applications as well as web applications.
 
 ### Languages
 <p align='center'>
