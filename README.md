@@ -3,10 +3,7 @@ I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon 
 
 ### Languages
 <p align='center'>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&layout=compact&theme=dark">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&layout=compact&theme=light'/>
-  </picture>
+  ![icabetong's GitHub stats](https://github-readme-stats.vercel.app/api?username=icabetong&show_icons=true&theme=transparent)
 </p>
 
 ### Skills
