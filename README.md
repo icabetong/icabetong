@@ -1,18 +1,39 @@
-## 👋 Hi there  
-I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon State University**; taking a course in **Information Technology** with a **Systems Development** specialization. I am currently based in the Philippines and I specialize in developing mobile applications as well as web applications.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!</h1>
+
+I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon State University**; an **Information Technology** with a **Systems Development** major. I am currently based in the Philippines and I specialize in developing web applications and mobile applications.
+
+```javascript
+const me = {
+  name: "Isaiah Collins Abetong",
+  location: "Clark, Pampanga",
+  hobbies: [
+    "Computer Games", 
+    "Game Modding", 
+    "Touching Grass", 
+    "Cooking"
+  ],
+  forte: [
+    "Android",
+    "React",
+    "Flutter",
+    "Svelte",
+  ],
+  languages: [
+    "en-US",
+    "en-PH",
+    "tl-PH",
+  ]
+}
+```
 
 ### Stats
-[![icabetong's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=icabetong&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![icabetong's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=icabetong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-### Skills
-
-<p style='text-align: center'>
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=icabetong&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=icabetong&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
+
+### Experiences
 <p>
   <img src='https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white'/>
   <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
@@ -45,6 +66,8 @@ I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon 
   <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
   <img src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9'/>
   <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white'/>
   <img src='https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white'/>
   <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
   <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white'/>
