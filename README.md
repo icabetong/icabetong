@@ -1,10 +1,12 @@
 ## 👋 Hi there  
 I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon State University**; taking a course in **Information Technology** with a **Systems Development** specialization. I am currently based in the Philippines and I specialize in developing mobile applications as well as web applications.
 
-### Languages
-<p align='center'>
-  ![icabetong's GitHub stats](https://github-readme-stats.vercel.app/api?username=icabetong&show_icons=true&theme=transparent)
-</p>
+### Stats
+[![icabetong's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=icabetong&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![icabetong's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=icabetong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icabetong&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### Skills
 
@@ -53,13 +55,6 @@ I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon 
   <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
 </p>
   
-### Stats
-<p align='center'>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=icabetong&theme=dark">
-    <img src='https://github-readme-stats.vercel.app/api?username=icabetong&theme=light'/>
-  </picture>
-</p>
   
 ### You can reach me at:
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:isaiahcollins_02@live.com)
