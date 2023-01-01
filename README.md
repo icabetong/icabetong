@@ -6,23 +6,9 @@ I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon 
 const me = {
   name: "Isaiah Collins Abetong",
   location: "Clark, Pampanga",
-  hobbies: [
-    "Computer Games", 
-    "Game Modding", 
-    "Touching Grass", 
-    "Cooking"
-  ],
-  forte: [
-    "Android",
-    "React",
-    "Flutter",
-    "Svelte",
-  ],
-  languages: [
-    "en-US",
-    "en-PH",
-    "tl-PH",
-  ]
+  hobbies: [ "Computer Games", "Badminton", "Cooking" ],
+  languages: [ "en", "tl", "de" ],
+  forte: [ "Android", "React/NextJS", "Flutter/Dart", "Svelte/SvelteKit" ]
 }
 ```
 
