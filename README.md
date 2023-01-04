@@ -2,6 +2,7 @@
 
 I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon State University**; an **Information Technology** with a **Systems Development** major. I am currently based in the Philippines and I specialize in developing web applications and mobile applications.
 
+Here are some of my info:
 ```javascript
 const me = {
   name: "Isaiah Collins Abetong",
