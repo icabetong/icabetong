@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!</h1>
 
-I'm Isaiah Collins; ~~currently an student in~~ a graduate from **Central Luzon State University**; an **Information Technology** with a **Systems Development** major. I am currently based in the Philippines and I specialize in developing web applications and mobile applications.
+Welcome to my GitHub profile! As a full stack engineer with 1 years of experience, I build robust, scalable, and user-friendly applications. I have a deep understanding of both front-end and back-end technologies, strong problem-solving skills, and a commitment to delivering high-quality results. I enjoy staying up-to-date with the latest tools and technologies and am excited to collaborate with other developers on this platform.
 
 Here are some of my info:
 ```javascript
