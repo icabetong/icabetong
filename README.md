@@ -6,8 +6,8 @@ Here are some of my info:
 ```javascript
 const me = {
   name: "Isaiah Collins Abetong",
-  location: "Clark, Pampanga",
-  hobbies: [ "Computer Games", "Badminton", "Cooking" ],
+  location: "Philippines",
+  hobbies: [ "Gaming", "Badminton", "Cooking" ],
   languages: [ "en", "tl", "de" ],
   forte: [ "Android", "React/NextJS", "Flutter/Dart", "Svelte/SvelteKit" ]
 }
