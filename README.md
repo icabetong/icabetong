@@ -9,7 +9,7 @@ const me = {
   location: "Philippines",
   hobbies: [ "Gaming", "Badminton", "Cooking" ],
   languages: [ "en", "tl", "de" ],
-  forte: [ "Android", "React/NextJS", "Flutter/Dart", "Svelte/SvelteKit" ]
+  forte: [ "Flutter/Dart", "React/NextJS", "Vue/Nuxt", "Svelte/SvelteKit" ]
 }
 ```
 
