@@ -5,7 +5,7 @@ Welcome to my GitHub profile! As a full stack engineer with 1 years of experienc
 Here are some of my info:
 ```javascript
 const me = {
-  name: "Isaiah Collins Abetong",
+  name: "Isaiah Collins",
   location: "Philippines",
   hobbies: [ "Gaming", "Badminton", "Cooking" ],
   languages: [ "en", "tl", "de" ],
